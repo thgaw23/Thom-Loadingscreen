@@ -1,1 +1,0 @@
-const logo = "logo.png";
